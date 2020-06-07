@@ -304,3 +304,8 @@ position:relative; top:-500px; left:400px;
     left: 25px;
   }
 }
+@media(max-width:765px){
+  .m1,.m2,.m3,.m4{
+    top:-100px;
+  }
+  }
